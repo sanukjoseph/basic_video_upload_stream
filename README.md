@@ -5,4 +5,6 @@
 
 ##Using --
 * Next.js 12.3
+* Typescript 4.8.3
 * [busboy](https://www.npmjs.com/package/busboy) - parsing incoming HTML form data
+
