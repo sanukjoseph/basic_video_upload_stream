@@ -4,7 +4,7 @@
 2. Video watch stream with `createReadStream`
 
 ##Using --
-* Next.js 12.3
-* Typescript 4.8.3
-* [busboy](https://www.npmjs.com/package/busboy) - parsing incoming HTML form data
+* [Next.js](https://nextjs.org/)
+* [Typescript](https://www.typescriptlang.org/)
+* [Busboy](https://www.npmjs.com/package/busboy) - A node.js module for parsing incoming HTML form data.
 
